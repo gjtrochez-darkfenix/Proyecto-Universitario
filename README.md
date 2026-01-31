@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/LogoUNAH.png" alt="Logo Universidad" width="100">
+  <img src="assets/LogoUNAH.png" alt="Logo Universidad" width="500">
   <img src="assets/LogoIA.jpg" alt="Logo Carrera" width="100">
 </p>
 # Proyecto Universitario Grupo Lustros
