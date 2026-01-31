@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/LogoUNAH.png" alt="Logo Universidad" width="250">
-  <img src="assets/LogoIA.jpg" alt="Logo Carrera" width="100">
+  <img src="assets/LogoIA.jpg" alt="Logo Carrera" width="150">
 </p>
 # Proyecto Universitario Grupo Lustros
 Sistema de gestión de casos legales. Este sistema permite organizar y dar seguimiento a expedientes jurídicos de forma eficiente.
