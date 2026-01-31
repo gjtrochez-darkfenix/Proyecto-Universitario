@@ -1,20 +1,17 @@
 # Proyecto Universitario Grupo Lustros
-SIstema de gestion de casos legales
-Breve descripción de qué hace el proyecto y cuál es su objetivo.
+Sistema de gestión de casos legales. Este sistema permite organizar y dar seguimiento a expedientes jurídicos de forma eficiente.
 
-👥 Integrantes.
-*Gustavo Trochez.
-*Yessica Gomez.
-*Ingrid del Cid.
-*Rixy Banegas.
-*Cistrian Molina.
+## 👥 Integrantes
+* Gustavo Tróchez
+* Sísica Gómez
+* Ingrid del Cid
+* Rixy Banegas
+* Cistrian Molina
 
-📂 Estructura del Repositorio.
-• `/src`: Código fuente.
+## 📂 Estructura del Repositorio
+* `/src`: Código fuente del sistema de gestión.
+* `/docs`: Documentación técnica, manual de usuario y diagramas.
+* `/assets`: Capturas de pantalla y recursos visuales.
 
-• `/docs`: Documentación técnica y manuales.
-
-• `/assets`: Imágenes y recursos.
-
-📄 Licencia.
-Este proyecto es para fines académicos.
+## 📄 Licencia
+Este proyecto es exclusivamente para fines académicos.
