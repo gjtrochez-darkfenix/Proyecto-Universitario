@@ -8,7 +8,7 @@ Sistema de gestión de casos legales. Este sistema permite organizar y dar segui
 
 ## 👥 Integrantes
 * Gustavo Tróchez
-* Sísica Gómez
+* Yessica Gómez
 * Ingrid del Cid
 * Rixy Banegas
 * Cistrian Molina
